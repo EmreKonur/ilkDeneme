@@ -1,0 +1,1 @@
+print ("Açık Kaynak Yazılım Geliştirme Dersi İçin İlk Commit Denemesi")
